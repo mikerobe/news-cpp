@@ -1,0 +1,4 @@
+-I/Users/mikerobe/local/include
+-I/Users/mikerobe/local/include/stlsoft
+-I/Users/mikerobe/local/include/mrutils
+-I /usr/X11/include

@@ -1,0 +1,2 @@
+20140831-194959.208: could not create log file: : /Volumes/Etendu/Documents/news/err.log
+20140831-194959.210: failed to set file for back-end: 1

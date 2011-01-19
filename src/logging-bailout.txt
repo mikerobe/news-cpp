@@ -1,0 +1,4 @@
+20140831-192842.467: could not create log file: : /Volumes/Etendu/Documents/news/err.log
+20140831-192842.469: failed to set file for back-end: 1
+20140831-192910.946: could not create log file: : /Volumes/Etendu/Documents/news/err.log
+20140831-192910.947: failed to set file for back-end: 1
